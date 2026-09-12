@@ -41,5 +41,5 @@ CTI · Detection Engineering · Digital Forensics · Incident Response
 - Professional Engineer, Information Management
 - Professional Engineer, Computer System Application
 - Senior Information System Auditor
-- SW Security Weakness Diagnostician
+- SW Security Weakness Auditor
 - CISSP
