@@ -1,4 +1,4 @@
-## Yong-Hyun Kim (whatabeautifulmemory)
+## Yong-Hyun Kim
 
 Cyber Security Analyst · Financial Security Institute (FSI), Korea
 CTI · Detection Engineering · Digital Forensics · Incident Response
