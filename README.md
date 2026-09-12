@@ -6,7 +6,7 @@ CTI · Detection Engineering · Digital Forensics · Incident Response
 ### Experience
 
 **Financial Security Institute (FSI)** — Cyber Security Analyst, 2016.10 – present
-- 2026.03 – 2028.01 · Sponsored graduate study (M.S. in Forensic, Sungkyunkwan University)
+- 2026.03 – 2028.01 · Sponsored graduate study (Forensic, Sungkyunkwan University)
 - 2021.01 – 2026.02 · Financial sector SOC · CTI service (planning / development / operation) · Threat intelligence production research · ASM service (planning / development)
 - 2020.01 – 2021.01 · Financial MyData · Financial data exchange
 - 2016.10 – 2020.01 · Financial sector incident response · Digital forensic investigation · Forensic methodology research
