@@ -18,7 +18,7 @@ CTI · Detection Engineering · Digital Forensics · Incident Response
 
 ### Talks & Reports
 
-- 2024.12 · Black Hat Europe 2024 · [Operation MIDAS: Tracking Fraudulent Financial Program Organizations](https://www.blackhat.com/eu-24/briefings/schedule/index.html#operation-midas---tracking-fraudulent-financial-program-organizations-42444)
+- 2024.12 · Black Hat Europe 2024 · [Operation MIDAS: Tracking Fraudulent Financial Program Organizations](https://i.blackhat.com/EU-24/Presentations/EU-24-Jang-OperationMIDAS-TrackingFraudulentFinancialProgramOrganizations.pdf)
 - 2023.07 · FS-ISAC APAC Summit 2023 · Building Cyber Threat Intelligence Service from 2 Billion NIDS Events over 8 Years
 - 2019.05 · KNPA ISCR 2019 · Fight Against Cybercrime: GandCrab Threat Groups
 - CTI Report · [Operation MIDAS — An Illegal Private HTS Program Threat Analysis Report on Financial Sector](https://www.fsec.or.kr/bbs/detail?menuNo=244&bbsNo=11452) (lead analyst & author)
