@@ -25,8 +25,8 @@ CTI · Detection Engineering · Digital Forensics · Incident Response
 ### Projects
 
 - [VINEYARD.RUN](https://vineyard.run) · Collaborative, AI-assisted, graph-based CTI/OSINT analysis platform
-- [glossy](https://github.com/whatabeautifulmemory/glossy) · Windows Event Log (EVTX) forensics tool — logon/logoff, power, RDP, USB, log clearing, autoruns and more; built for KDFS 2017
 - [readman](https://github.com/whatabeautifulmemory/readman) · Serverless Android business-card scanner — photos go straight to the vision LLM you choose (local Ollama or any OpenAI-compatible endpoint), saved only to your own contacts
+- [glossy](https://github.com/whatabeautifulmemory/glossy) · Windows Event Log (EVTX) forensics tool — logon/logoff, power, RDP, USB, log clearing, autoruns and more; built for KDFS 2017
 - [webhid-minikeyboard-setup](https://github.com/whatabeautifulmemory/webhid-minikeyboard-setup) · Single-file WebHID configurator for CH55x 3-key/1-knob macro pads — keys, macros, media/mouse actions, layers; protocol reverse-engineered from the vendor app
 
 ### Awards
