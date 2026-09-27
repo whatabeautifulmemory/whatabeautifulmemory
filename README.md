@@ -2,7 +2,7 @@
 
 Cyber Security Analyst · Financial Security Institute (FSI), Korea
 
-CTI · Detection Engineering · Digital Forensics · Incident Response
+CTI · Digital Forensics · Incident Response · Detection Engineering
 
 ### Experience
 
