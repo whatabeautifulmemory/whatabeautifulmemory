@@ -29,6 +29,7 @@ CTI · Detection Engineering · Digital Forensics · Incident Response
 - [VINEYARD.RUN](https://vineyard.run) · Collaborative, AI-assisted, graph-based CTI/OSINT analysis platform
 - [readman](https://github.com/whatabeautifulmemory/readman) · Android Business card scanner app that respects the privacy of others, saved only to your own contacts
 - [glossy](https://github.com/whatabeautifulmemory/glossy) · Windows Event Log (EVTX) forensics tool, built for KDFS 2017
+  - [glossy-web](https://glossy-web.github.io/) · A browser-native rebuild of Glossy. Zero-install Windows event log forensics that runs entirely in your browser. Your logs never leave your machine.
 - [webhid-minikeyboard-setup](https://github.com/whatabeautifulmemory/webhid-minikeyboard-setup) · WebHID-based setup panel for CH55x 3key-1knob mini keyboard
 
 ### Awards
