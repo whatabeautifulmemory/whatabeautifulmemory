@@ -1,6 +1,6 @@
 ## Yong-Hyun Kim
 
-Cyber Security Analyst · Financial Security Institute (FSI), Korea
+Cyber Security Analyst · Financial Security Institute (FSI), South Korea
 
 CTI · Digital Forensics · Incident Response · Detection Engineering
 
