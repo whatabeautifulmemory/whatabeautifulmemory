@@ -35,7 +35,7 @@ CTI · Digital Forensics · Incident Response · Detection Engineering
 ### Awards
 
 - 2018 · Digital Forensics Challenge 2018 · 1st place
-  * https://dfchallenge.org/winners-2018/
+  * https://www.dfchallenge.org/techwinners/2018
 - 2017 · KDFS 2017 · 1st place
   * https://github.com/whatabeautifulmemory/glossy
 
